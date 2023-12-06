@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Soufyane</h1>
+<h1 align="center">Hi 👋, I'm JADIR Mohammed</h1>
 
 <h3 align="center">A passionate developer</h3>
 
-### <div align="center">I'm Soufyane, a full-time freelance developer 👨‍💻 working remotely since 2022 🚀</div>
+### <div align="center">I'm JADIR, a full-time freelance developer 👨‍💻 working remotely since 2022 🚀</div>
 
-- 🌱 I’m currently learning **everything related to Web/Mobile developement**
+- 🌱 I’m currently learning **everything related to Web developement**
 - ❓ Ask me about **anything related to technologies**
--  📫 How to reach me **sofyan.ait.rehail@gmail.com**
-- ⚡ Fun fact: [ I use tabs over spaces ]
+-  📫 How to reach me **mohamad.jadir2018@gmail.com**
+- ⚡ Fun fact: [I'm good at chess ]
 
 <br/>
 
