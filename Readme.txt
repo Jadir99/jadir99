@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate developer</h3>
 
-### <div align="center">I'm JADIR, a full-time freelance developer 👨‍💻 working remotely since 2022 🚀</div>
+### <div align="center">I'm JADIR, a full-stack developer 👨‍💻 working remotely since 2022 🚀</div>
 
 - 🌱 I’m currently learning **everything related to Web developement**
 - ❓ Ask me about **anything related to technologies**
