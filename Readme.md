@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/jadir99" alt="jadir99's 42 stats" /></a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=prussian&preferLogin=true">    <img  alt="jadir99's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jadir99?cardType=github&theme=prussian&preferLogin=true" />  </a>
 
 <!-- <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
 
