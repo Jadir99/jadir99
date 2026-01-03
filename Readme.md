@@ -5,7 +5,7 @@
 <div align="center">
   
   <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Machine+Learning+Engineer;Deep+Learning+Specialist;AI+Solutions+Architect;NLP+%26+Computer+Vision+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Data+Scientist+%F0%9F%93%8A;AI+Engineer+%F0%9F%A4%96;Machine+Learning+Expert+%F0%9F%A7%A0;Deep+Learning+Specialist+%F0%9F%9A%80" alt="Typing SVG" />
   
   <br/>
   
@@ -16,39 +16,61 @@
 
 <br/>
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Jadir"
-        self.role = "AI Engineer & Data Science Specialist"
-        self.education = "National Higher School of AI & Data Science (ENSIASD)"
-        self.specialization = ["AI", "Big Data", "Data Science"]
-        
-    def get_skills(self):
-        return {
-            "languages": ["Python", "C", "C++", "SQL", "R"],
-            "ml_frameworks": ["TensorFlow", "PyTorch", "Keras", "Scikit-learn"],
-            "dl_specialties": ["CNN", "RNN", "Transformers", "GANs"],
-            "nlp": ["BERT", "GPT", "spaCy", "NLTK"],
-            "computer_vision": ["OpenCV", "YOLO", "ResNet"],
-            "tools": ["Git", "Docker", "Jupyter", "VS Code"],
-            "big_data": ["Apache Spark", "Hadoop", "Kafka"],
-            "databases": ["PostgreSQL", "MongoDB", "MySQL"]
-        }
-    
-    def current_focus(self):
-        return [
-            "🧠 Large Language Models (LLMs)",
-            "🎨 Generative AI & Deep Learning",
-            "📊 Big Data Analytics",
-            "🔍 Computer Vision Applications",
-            "⚡ ML Model Optimization"
-        ]
+<h2 align="center">🎓 Data Scientist & AI Engineer</h2>
 
-me = AIEngineer()
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Deep%20Learning-purple?style=for-the-badge">
+</p>
+
+<div align="center">
+  
+### 🎯 Student at **National Higher School of AI & Data Science (ENSIASD)**
+
+🔬 Specializing in **Artificial Intelligence** | **Big Data** | **Data Science**
+
+💡 Transforming Data into Intelligent Solutions
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+</p>
+
+## 🚀 What I Do
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+#### 🧠 AI & Machine Learning
+- Building intelligent systems with ML/DL
+- Developing predictive models
+- Natural Language Processing
+- Computer Vision applications
+- Model optimization & deployment
+      
+    </td>
+    <td valign="top" width="50%">
+      
+#### 📊 Data Science & Analytics
+- Extracting insights from complex data
+- Statistical analysis & visualization
+- Big Data processing
+- Data mining & pattern recognition
+- Business intelligence solutions
+      
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -56,31 +78,61 @@ me = AIEngineer()
 
 <div align="center">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+</p>
 
-### 🤖 AI/ML Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=r,cpp,c,java" />
+</p>
 
-### 📊 Data Science & Big Data
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+</p>
 
-### 🛠️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br/>
+
+### 🎯 Core Expertise
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65" />
+      <br><strong>TensorFlow</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="65" height="65" />
+      <br><strong>PyTorch</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="Scikit-learn" width="65" height="65" />
+      <br><strong>Scikit-learn</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65" />
+      <br><strong>Pandas</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="65" height="65" />
+      <br><strong>NumPy</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" alt="Spark" width="65" height="65" />
+      <br><strong>Apache Spark</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="65" height="65" />
+      <br><strong>OpenCV</strong>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -108,24 +160,48 @@ me = AIEngineer()
 
 <br/>
 
-## 🎯 Current Goals & Interests
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600">
+</p>
 
-<div align="center">
-
-| 🔭 Currently Working On | 🌱 Learning |
-|------------------------|-------------|
-| AI & ML Projects at ENSIASD | Advanced Deep Learning Architectures |
-| Big Data Processing Systems | Transformer Models & LLMs |
-| Computer Vision Applications | MLOps & Model Deployment |
-
-</div>
+## 🎯 Current Focus
 
 <br/>
 
-- 👯 Looking to collaborate on: **Open Source AI/ML Projects**
-- 💬 Ask me about: **Machine Learning, Deep Learning, Data Science, Big Data**
-- 📫 How to reach me: **Check the badges below!**
-- ⚡ Fun fact: **I can debug faster than I can explain the bug! 🐛**
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+      <br>
+      <strong>🔭 Working On</strong>
+      <br><br>
+      ✨ AI & ML Projects at ENSIASD<br>
+      ✨ Big Data Analytics<br>
+      ✨ Computer Vision Systems<br>
+      ✨ NLP Applications
+    </td>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+      <br>
+      <strong>🌱 Learning</strong>
+      <br><br>
+      🚀 Large Language Models<br>
+      🚀 Generative AI<br>
+      🚀 Advanced Deep Learning<br>
+      🚀 MLOps & Deployment
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  
+💬 **Ask me about:** Machine Learning • Deep Learning • Data Science • Big Data • AI
+
+⚡ **Fun fact:** I turn coffee into code and data into insights! ☕📊
+
+</div>
 
 <br/>
 
