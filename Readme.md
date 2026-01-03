@@ -1,5 +1,4 @@
 ### Hi there 👋
-i will add some other things 
 <!--
 **jadir99/jadir99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
