@@ -84,7 +84,7 @@ Transforming Data into Intelligent Solutions
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -103,7 +103,7 @@ Transforming Data into Intelligent Solutions
 
 <br/>
 
-### 🎯 Core Expertise
+### Core Expertise
 
 <table>
   <tr>
@@ -148,12 +148,43 @@ Transforming Data into Intelligent Solutions
 
 <br/>
 
-## 📊 GitHub Statistics
+## GitHub Statistics & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jadir99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=E2E8F0&ring_color=EC4899" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadir99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E2E8F0" alt="Top Languages" height="170"/>
+
+### Profile Overview
+
+<img src="https://github-readme-stats.vercel.app/api?username=jadir99&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=E2E8F0&ring_color=EC4899&include_all_commits=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadir99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E2E8F0&langs_count=8" alt="Top Languages" height="170"/>
+
 </div>
+
+### Detailed Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jadir99&theme=tokyonight" alt="Profile Details" />
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jadir99&theme=tokyonight" alt="Repos per Language" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jadir99&theme=tokyonight" alt="Most Commit Language" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jadir99&theme=tokyonight" alt="Stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jadir99&theme=tokyonight" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
+
+### Contribution Streak
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadir99&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=EC4899&fire=8B5CF6&currStreakLabel=E2E8F0" alt="GitHub Streak" width="49%"/>
@@ -162,7 +193,7 @@ Transforming Data into Intelligent Solutions
 
 <br/>
 
-## 🏆 GitHub Trophies
+### Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jadir99&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
@@ -174,7 +205,7 @@ Transforming Data into Intelligent Solutions
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600">
 </p>
 
-## 🎯 Current Focus
+## Current Focus
 
 <br/>
 
@@ -183,7 +214,7 @@ Transforming Data into Intelligent Solutions
     <td align="center" width="50%">
       <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
       <br>
-      <strong>🔭 Working On</strong>
+      <strong>Working On</strong>
       <br><br>
       ✨ AI & ML Projects at ENSIASD<br>
       ✨ Big Data Analytics<br>
@@ -193,12 +224,12 @@ Transforming Data into Intelligent Solutions
     <td align="center" width="50%">
       <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
       <br>
-      <strong>🌱 Learning</strong>
+      <strong>Learning</strong>
       <br><br>
-      🚀 Large Language Models<br>
-      🚀 Generative AI<br>
-      🚀 Advanced Deep Learning<br>
-      🚀 MLOps & Deployment
+      ⚡ Large Language Models<br>
+      ⚡ Generative AI<br>
+      ⚡ Advanced Deep Learning<br>
+      ⚡ MLOps & Deployment
     </td>
   </tr>
 </table>
@@ -207,15 +238,15 @@ Transforming Data into Intelligent Solutions
 
 <div align="center">
   
-💬 **Ask me about:** Machine Learning • Deep Learning • Data Science • Big Data • AI
+**Ask me about:** Machine Learning • Deep Learning • Data Science • Big Data • AI
 
-⚡ **Fun fact:** I turn coffee into code and data into insights! ☕📊
+**Fun fact:** I turn coffee into code and data into insights! ☕
 
 </div>
 
 <br/>
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
   
@@ -225,11 +256,27 @@ Transforming Data into Intelligent Solutions
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jadir99.github.io)
 
+### Profile Analytics
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://komarev.com/ghpvc/?username=jadir99&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/followers/jadir99?style=for-the-badge&color=6366f1&label=FOLLOWERS&logo=github" alt="Followers" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/jadir99?style=for-the-badge&color=6366f1&label=STARS&logo=github" alt="Stars" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br/>
 
-## 💡 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
   
@@ -239,7 +286,7 @@ Transforming Data into Intelligent Solutions
 
 <br/>
 
-## 🐍 Watch Snake Eating My Contributions!
+## Watch Snake Eating My Contributions!
 
 <div align="center">
   <picture>
@@ -255,11 +302,11 @@ Transforming Data into Intelligent Solutions
 
 <div align="center">
   
-### 💭 *"The future belongs to those who learn more skills and combine them in creative ways." - Robert Greene*
+### *"The future belongs to those who learn more skills and combine them in creative ways." - Robert Greene*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-**⭐️ From [Jadir99](https://github.com/jadir99) | Future AI Engineer 🚀**
+**⭐️ From [Jadir99](https://github.com/jadir99) | Future AI Engineer**
 
 </div>
 
