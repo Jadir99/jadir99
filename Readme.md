@@ -127,8 +127,8 @@ Transforming Data into Intelligent Solutions
 
 ### Profile Overview
 
-<img src="https://github-readme-stats.vercel.app/api?username=jadir99&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=E2E8F0&ring_color=EC4899&include_all_commits=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadir99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E2E8F0&langs_count=8" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jadir99&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=E2E8F0&ring_color=EC4899&include_all_commits=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadir99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E2E8F0&langs_count=8" alt="Top Languages" height="170"/>
 
 </div>
 
@@ -136,23 +136,23 @@ Transforming Data into Intelligent Solutions
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jadir99&theme=tokyonight" alt="Profile Details" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jadir99&theme=tokyonight" alt="Profile Details" />
 
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jadir99&theme=tokyonight" alt="Repos per Language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jadir99&theme=tokyonight" alt="Repos per Language" />
     </td>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jadir99&theme=tokyonight" alt="Most Commit Language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jadir99&theme=tokyonight" alt="Most Commit Language" />
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jadir99&theme=tokyonight" alt="Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jadir99&theme=tokyonight" alt="Stats" />
     </td>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jadir99&theme=tokyonight" alt="Productive Time" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jadir99&theme=tokyonight" alt="Productive Time" />
     </td>
   </tr>
 </table>
@@ -160,8 +160,8 @@ Transforming Data into Intelligent Solutions
 ### Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jadir99&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=EC4899&fire=8B5CF6&currStreakLabel=E2E8F0" alt="GitHub Streak" width="49%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jadir99&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=8B5CF6&point=EC4899" alt="Contribution Graph" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=Jadir99&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=EC4899&fire=8B5CF6&currStreakLabel=E2E8F0" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jadir99&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=8B5CF6&point=EC4899" alt="Contribution Graph" width="49%"/>
 </div>
 
 <br/>
@@ -169,7 +169,7 @@ Transforming Data into Intelligent Solutions
 ### Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jadir99&theme=tokyonight&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Jadir99&theme=tokyonight&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -223,24 +223,24 @@ Transforming Data into Intelligent Solutions
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jadir99)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jadir99)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/jadir99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Jadir99)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jadir99)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/Jadir99)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jadir99.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Jadir99.github.io)
 
 ### Profile Analytics
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://komarev.com/ghpvc/?username=jadir99&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=Jadir99&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/github/followers/jadir99?style=for-the-badge&color=6366f1&label=FOLLOWERS&logo=github" alt="Followers" />
+      <img src="https://img.shields.io/github/followers/Jadir99?style=for-the-badge&color=6366f1&label=FOLLOWERS&logo=github" alt="Followers" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/github/stars/jadir99?style=for-the-badge&color=6366f1&label=STARS&logo=github" alt="Stars" />
+      <img src="https://img.shields.io/github/stars/Jadir99?style=for-the-badge&color=6366f1&label=STARS&logo=github" alt="Stars" />
     </td>
   </tr>
 </table>
@@ -265,9 +265,9 @@ Transforming Data into Intelligent Solutions
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jadir99/jadir99/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jadir99/jadir99/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jadir99/jadir99/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jadir99/Jadir99/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jadir99/Jadir99/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jadir99/Jadir99/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -281,7 +281,7 @@ Transforming Data into Intelligent Solutions
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-**⭐️ From [Jadir99](https://github.com/jadir99) | Data Scientist & AI Engineer**
+**⭐️ From [Jadir99](https://github.com/Jadir99) | Data Scientist & AI Engineer**
 
 </div>
 
