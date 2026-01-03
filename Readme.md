@@ -20,7 +20,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </p>
 
-<h2 align="center">🎓 Data Scientist & AI Engineer</h2>
+<h2 align="center">Data Scientist & AI Engineer</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-blue?style=for-the-badge">
@@ -31,11 +31,11 @@
 
 <div align="center">
   
-### 🎯 Student at **National Higher School of AI & Data Science (ENSIASD)**
+### Engineer at **National Higher School of AI & Data Science (ENSIASD)**
 
-🔬 Specializing in **Artificial Intelligence** | **Big Data** | **Data Science**
+Specializing in **Artificial Intelligence** | **Big Data** | **Data Science**
 
-💡 Transforming Data into Intelligent Solutions
+Transforming Data into Intelligent Solutions
 
 </div>
 
@@ -45,13 +45,13 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 </p>
 
-## 🚀 What I Do
+## What I Do
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
       
-#### 🧠 AI & Machine Learning
+#### AI & Machine Learning
 - Building intelligent systems with ML/DL
 - Developing predictive models
 - Natural Language Processing
@@ -59,14 +59,24 @@
 - Model optimization & deployment
       
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
       
-#### 📊 Data Science & Analytics
+#### Data Science & Analytics
 - Extracting insights from complex data
 - Statistical analysis & visualization
 - Big Data processing
 - Data mining & pattern recognition
 - Business intelligence solutions
+      
+    </td>
+    <td valign="top" width="33%">
+      
+#### Full Stack Development
+- Building scalable web applications
+- RESTful API development
+- Frontend & backend integration
+- Database design & optimization
+- Cloud deployment & DevOps
       
     </td>
   </tr>
