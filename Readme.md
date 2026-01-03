@@ -11,20 +11,6 @@
 
 <br/><br/>
 
-<!-- Profile Analytics -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://komarev.com/ghpvc/?username=jadir99&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/followers/jadir99?style=for-the-badge&color=6366f1&label=FOLLOWERS&logo=github" alt="Followers" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/jadir99?style=for-the-badge&color=6366f1&label=TOTAL+STARS&logo=github" alt="Stars" />
-    </td>
-  </tr>
-</table>
   
 </div>
 
@@ -131,47 +117,6 @@ Transforming Data into Intelligent Solutions
 
 <br/>
 
-### Core Expertise
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br><strong>Python</strong>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65" />
-      <br><strong>TensorFlow</strong>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="65" height="65" />
-      <br><strong>PyTorch</strong>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="Scikit-learn" width="65" height="65" />
-      <br><strong>Scikit-learn</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65" />
-      <br><strong>Pandas</strong>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="65" height="65" />
-      <br><strong>NumPy</strong>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="65" height="65" />
-      <br><strong>Laravel</strong>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" alt="Hadoop" width="65" height="65" />
-      <br><strong>Hadoop</strong>
-    </td>
-  </tr>
-</table>
-
 </div>
 
 <br/>
@@ -182,7 +127,7 @@ Transforming Data into Intelligent Solutions
 
 ### Profile Overview
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jadir99&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=E2E8F0&ring_color=EC4899&include_all_commits=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jadir99&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=E2E8F0&ring_color=EC4899&include_all_commits=true" alt="GitHub Stats" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadir99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E2E8F0&langs_count=8" alt="Top Languages" height="170"/>
 
 </div>
@@ -215,7 +160,7 @@ Transforming Data into Intelligent Solutions
 ### Contribution Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadir99&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=EC4899&fire=8B5CF6&currStreakLabel=E2E8F0" alt="GitHub Streak" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=jadir99&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=EC4899&fire=8B5CF6&currStreakLabel=E2E8F0" alt="GitHub Streak" width="49%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jadir99&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=8B5CF6&point=EC4899" alt="Contribution Graph" width="49%"/>
 </div>
 
@@ -224,7 +169,7 @@ Transforming Data into Intelligent Solutions
 ### Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jadir99&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jadir99&theme=tokyonight&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -244,7 +189,7 @@ Transforming Data into Intelligent Solutions
       <br>
       <strong>Working On</strong>
       <br><br>
-      ✨ AI & ML Projects at ENSIASD<br>
+      ✨ AI & ML Projects<br>
       ✨ Big Data Analytics<br>
       ✨ Computer Vision Systems<br>
       ✨ NLP Applications
@@ -304,32 +249,6 @@ Transforming Data into Intelligent Solutions
 
 <br/>
 
-## GitHub Analytics
-
-<div align="center">
-
-### Real-time Activity Metrics
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/github/commit-activity/m/jadir99/jadir99?style=for-the-badge&color=6366f1&label=COMMITS/MONTH\" alt=\"Monthly Commits\" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/github/last-commit/jadir99/jadir99?style=for-the-badge&color=6366f1&label=LAST+COMMIT\" alt=\"Last Commit\" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/github/repo-size/jadir99/jadir99?style=for-the-badge&color=6366f1&label=PROFILE+SIZE\" alt=\"Profile Size\" />
-    </td>
-  </tr>
-</table>
-
-### Contribution Overview
-
-<img src="https://github-contributor-stats.vercel.app/api?username=jadir99&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributions" width="80%" />
-
-</div>
-
 <br/>
 
 ## Random Dev Quote
@@ -362,7 +281,7 @@ Transforming Data into Intelligent Solutions
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-**⭐️ From [Jadir99](https://github.com/jadir99) | Future AI Engineer**
+**⭐️ From [Jadir99](https://github.com/jadir99) | Data Scientist & AI Engineer**
 
 </div>
 
