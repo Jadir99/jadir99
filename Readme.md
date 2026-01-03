@@ -121,16 +121,6 @@ Transforming Data into Intelligent Solutions
 
 <br/>
 
-## GitHub Statistics & Analytics
-
-<div align="center">
-
-### Profile Overview
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jadir99&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=E2E8F0&ring_color=EC4899&include_all_commits=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadir99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E2E8F0&langs_count=8" alt="Top Languages" height="170"/>
-
-</div>
 
 ### Detailed Activity
 
@@ -160,7 +150,7 @@ Transforming Data into Intelligent Solutions
 ### Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jadir99&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=EC4899&fire=8B5CF6&currStreakLabel=E2E8F0" alt="GitHub Streak" width="49%"/>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jadir99&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=8B5CF6&point=EC4899" alt="Contribution Graph" width="49%"/>
 </div>
 
@@ -169,7 +159,7 @@ Transforming Data into Intelligent Solutions
 ### Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jadir99&theme=tokyonight&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jadir99&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies"/>
 </div>
 
 <br/>
